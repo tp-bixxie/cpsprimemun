@@ -42,7 +42,7 @@ const Eb = () => {
        
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 text-center mt-4'>
-               Varnika Nahar (Vice-Chair)
+               Varnika Nahar (Co-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             With unwavering dedication and a wealth of experience in the field of debates and Muns - we proudly present Varnika as a distinguished co-chair for UNCSW. Varnika's passion for international affairs and diplomacy has propelled her passion in the field of MUNs. As an astute observer, she brings a keen eye for detail, fairness, and critical analysis to the debates and the committee. <br></br><br></br>
