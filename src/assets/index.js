@@ -33,7 +33,25 @@ import unfccc from "./UNFCCC.png";
 import unhrc from "./UNHRC.png";
 import uncsw from "./UNCSW.png";
 import ip from "./IP.png";
-import ecosoc from "./ECOSOC.png";
+import ecosoc from "./ECOSOC.png"; 
+import ecosoc1 from "./ecosoc1.png"
+import ecosoc2 from "./ecosoc2.png"
+import g201 from "./g201.png"
+import g202 from "./g202.png"
+import ip1 from "./ip1.png"
+import ip2 from "./ip2.png"
+import uncsw1 from "./uncsw1.png"
+import uncsw2 from "./uncsw2.png"
+import uncsw3 from "./uncsw3.png"
+import uncsw4 from "./uncsw4.png"
+import unfccc1 from "./unfccc1.png"
+import unfccc2 from "./unfccc2.png"
+import unga1 from "./unga1.png"
+import unga2 from "./unga2.png"
+import unhrc1 from "./unhrc1.png"
+import unhrc2 from "./unhrc2.png"
+import unsc1 from "./unsc1.png"
+import who1 from "./who1.png"
 
 export {
   airbnb,
@@ -72,5 +90,27 @@ export {
   g20,
   who,
   ecosoc,
+  ecosoc1,
+  ecosoc2,
+  g201,
+  g202,
+  ip1,
+  ip2,
+  uncsw1,
+  uncsw2,
+  uncsw3,
+  uncsw4,
+  unfccc1,
+  unfccc2,
+  unga1,
+  unga2,
+  unhrc1,
+  unhrc2,
+  unsc1,
+
+  who1,
+
+
+
 
 };

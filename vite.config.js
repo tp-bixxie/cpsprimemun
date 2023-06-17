@@ -15,6 +15,7 @@ export default defineConfig({
         about: resolve(__dirname, './about/index.html'),
         committee: resolve (__dirname, './committee/index.html'),
         conference: resolve (__dirname, './conference/index.html'),
+        resources: resolve (__dirname, './resources/index.html'),
         WHO: resolve (__dirname, './WHO/index.html'),
         ECOSOC: resolve (__dirname, './ECOSOC/index.html'),
         G20: resolve (__dirname, './G20/index.html'),

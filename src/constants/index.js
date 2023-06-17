@@ -15,6 +15,10 @@ export const navLinks = [
     title: "COMMITTEE",
   },
   {
+    id: "/resources/",
+    title: "RESOURCES",
+  },
+  {
     id: "/conference/",
     title: "CONFERENCE",
   },
