@@ -1,6 +1,6 @@
 import React from 'react';
 import styles, { layout } from '../../src/style';
-import { mainlogo, unsc1 } from '../../src/assets';
+import { mainlogo, unsc1, unsc2 } from '../../src/assets';
 
 const Eb = () => {
   return (
@@ -30,14 +30,21 @@ const Eb = () => {
      
         <div className={`flex flex-col p-6 rounded-[20px] mb-6 feature-card1 w-auto h-auto md:w-auto md:h-auto items-center` }>
        
-            <img src={unsc1} alt="icon" className='w-[40%] h-[40%] object-contain rounded-full' /> 
+            <img src={unsc2} alt="icon" className='w-[40%] h-[40%] object-contain rounded-full' /> 
        
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 text-center'>
-               Name (Co-Chair)
+            Ryan Rewins (Co-Chair)
             </h4>
-            <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify">
-                 Assessing the Sustainability of Post-Pandemic Economic Recovery Models with Emphasis on Global cooperation.
+            <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
+            Ryan Kidangan is a seasoned delegate and chair with experience in over fourteen Model United Nations (MUN) conferences and winning several national and international debates. His expertise lies in various fields, including public speaking and negotiation.
+            <br></br><br></br>
+            Despite his vibrant and fast-paced exterior, Ryan holds a perceptive belief that "The universe bends to a still mind, peace be still," quoting Ab-Soul. This assertion reflects his understanding that a calm and focused mind has the power to influence and shape the world around it.
+            <br></br><br></br>
+            When not engaged in MUN activities, Ryan can be found behind the laptop, making music. His musical preferences span a diverse range, encompassing artists like Kendrick Lamar and Armand Hammer. This eclectic taste in music further highlights his open-mindedness and appreciation for different genres and styles.
+            <br></br><br></br>
+            In summary, Ryan Kidangan is a multifaceted individual, adept at navigating the world of MUNs and national debates. With his experience and expertise, he understands the importance of reliability as a prerequisite for trust, and he appreciates the power of a still mind in influencing the universe.
+
 
             </p>
         </div>    

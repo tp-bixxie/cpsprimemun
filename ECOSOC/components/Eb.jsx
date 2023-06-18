@@ -14,7 +14,7 @@ const Eb = () => {
         
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 mt-4 text-center'>
-            Krishna Venkata Raman (Chair) 
+            Krishna Raman (Chair) 
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             Greetings Delegates! Krishna Venkata Raman is incredibly honored and excited to Chair the UNECOSOC committee at CPS PRIME MUN 2023.<br></br><br></br>
@@ -42,7 +42,7 @@ const Eb = () => {
     
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 mt-4 text-center'>
-            SVS Rohan  (Co-Chair)
+            Rohan.SVS  (Co-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             An incoming student at Ashoka University, Rohan.SVS has been part of MUNs and debating since he was 13. Having received the highest awards at multiple competitions nationally and internationally like the Harvard MUN India, CHINMUN, IMUN, CMMUN and ILMUNC, to name a few, he's one for constructive discussion and collaboration.<br></br><br></br>

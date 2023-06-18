@@ -11,14 +11,14 @@ const Committee = () => {
   
      <div className={`flex flex-col p-6 rounded-[20px] mb-6 feature-card1 w-auto h-auto md:w-auto md:h-auto items-center` }>
     
-         <img src={g20} alt="icon" className='w-[40%] h-[40%] object-contain rounded-full' /> 
+         <img src={g20} alt="icon" className='w-[60%] h-[60%] object-contain rounded-full' /> 
  
      <div className='flex-1 flex flex-col ml-3'> 
             <h2 className='font-formal font-semibold text-white text-[30px] leading -[23.4px] mb-1 text-center'>
             Global 20 Summit
             </h2>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px]">
-                 <span className='font-bold'>Agenda:</span> Analyzing  You are seeing an agenda, though there isnt one.
+                 <span className='font-bold'>Agenda:</span> Combatting Transnational Organized Crime: Collaborative measures for effective counteraction
 
             </p>
         </div>    

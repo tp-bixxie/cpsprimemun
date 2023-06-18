@@ -51,7 +51,15 @@ import unga2 from "./unga2.png"
 import unhrc1 from "./unhrc1.png"
 import unhrc2 from "./unhrc2.png"
 import unsc1 from "./unsc1.png"
+import unsc2 from "./unsc2.png"
 import who1 from "./who1.png"
+import who2 from "./who2.png"
+import br from "./br.png"
+import bw from "./bw.png"
+import dm from  "./dm.png"
+import ovp from "./ovp.png"
+import redbox from "./redbox.png"
+import sandburg from "./sandburg.png"
 
 export {
   airbnb,
@@ -107,10 +115,13 @@ export {
   unhrc1,
   unhrc2,
   unsc1,
-
+  unsc2,
   who1,
-
-
-
-
+  who2,
+  br,
+  bw,
+  dm,
+  ovp,
+  redbox,
+  sandburg,
 };
