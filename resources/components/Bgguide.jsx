@@ -3,15 +3,15 @@ import styles, { layout } from "../../src/style";
 
 const Bgguide = () => {
   const downloadLinks = [
-    { committeeName: 'Committee 1', guideLink: 'https://example.com/guide1.pdf' },
-    { committeeName: 'Committee 2', guideLink: 'https://example.com/guide2.pdf' },
-    { committeeName: 'Committee 3', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'Committee 4', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'Committee 5', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'Committee 6', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'Committee 7', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'Committee 8', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'Committee 9', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'UNGA (SPECPOL)', guideLink: 'https://example.com/guide1.pdf' },
+    { committeeName: 'UNHRC', guideLink: 'https://example.com/guide2.pdf' },
+    { committeeName: 'UNCSW', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'UNSC', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'G20', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'IP', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'ECOSOC', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'UNFCCC', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'WHO', guideLink: 'https://example.com/guide3.pdf' },
   ];
 
   const handleDownload = (link) => {

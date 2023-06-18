@@ -14,10 +14,10 @@ const Eb = () => {
    
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 text-center mt-4'>
-            Atheeb (Chair) 
+            Atheeb Hussain (Chair) 
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
-            Atheeb has an impressive range of accomplishments across multiple fields. With extensive experience in Model United Nations, he has won 11 best delegate awards and has been recognized for his exceptional public speaking skills, including a Best Speaker Award at a panel debate (National Level) and for his thesis paper 3rd best among the countries India, Nigeria, and Saudi Arabia. Before this, he has also been a Director General of CPS PRIME MUN (best MUN). <br></br><br></br>
+            Atheeb has an impressive range of accomplishments across multiple fields. With extensive experience in Model United Nations, he has won many best delegate awards and has been recognized for his exceptional public speaking skills, including a Best Speaker Award at a panel debate (National Level) and for his thesis paper 3rd best among the countries India, Nigeria, and Saudi Arabia. Before this, he has also been a Director General of CPS PRIME MUN (best MUN). <br></br><br></br>
             
             When he's not busy designing the batmobile he utilizes his exemplary engineering skills to build really fast tiny cars, one of them was fast enough to earn him a spot in the F1 in Schools World Finals, Singapore. As Mclovin from Superbad, he has created several applications and web3 websites as a freelancer, demonstrating his expertise in this field. <br></br><br></br>
             

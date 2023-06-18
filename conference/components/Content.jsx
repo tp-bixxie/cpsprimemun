@@ -28,7 +28,7 @@ const Content = () => {
                   <span>
                     CPS Prime MUN will take place from 
                     <span className="text-bold">
-                      July 08th through 09th, 2023.
+                      July 21st through 22nds, 2023.
                     </span>
                   </span>
                   <span className="mt-4">
@@ -59,12 +59,12 @@ const Content = () => {
               <p className={`${styles.paragraph} max-w-[312px] text-justify `}>
                 <span className="text-black text-[18px]">
                   <span>CPS Prime MUN's dress code for the event is, </span><br></br>
-                  <span className="mt-0">Traditional Attire </span>
+                  <span className="mt-0">Western Business Attire </span>
                   
                   <br></br>
                   <span className="mt-4 text-bold">21st July, 2023 </span>
                   <br></br>
-                  <span className="mt-0">Western Business Attire </span>
+                  <span className="mt-0">Traditional Attire </span>
                   
                   <br></br>
                   <span className="mt-4 text-bold">22nd July, 2023 </span>

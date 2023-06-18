@@ -140,19 +140,19 @@ export const footerLinks = [
     links: [
       {
         name: "Secretary General",
-        link: "#",
+        link: "mailto:secgen@cpsprimemun.in",
       },
       {
-        name: "Deupty Secretary General",
-        link: "#",
+        name: "Director General",
+        link: "mailto:dirgen@cpsprimemun.in",
       },
       {
         name: "Faculty Advisors",
-        link: "#",
+        link: "mailto:facultyadvisors@cpsprimemun.in",
       },
       {
         name: "General Enquiry",
-        link: "#",
+        link: "mailto:generalenquiry@cpsprimemun.in",
       },
       
     ],
@@ -173,21 +173,18 @@ export const footerLinks = [
         link: "/conference/",
       },
       {
-        name: "Contact Us",
-        link: "#",
+        name: "Resources",
+        link: "/resources/",
       },
     ],
   },
   {
     title: "Sponsor",
     links: [
-      {
-        name: "Our Sponsors",
-        link: "#",
-      },
+    
       {
         name: "Become a Sponsor",
-        link: "#",
+        link: "mailto:generalenquiry@cpsprimemun.in",
       },
     ],
   },

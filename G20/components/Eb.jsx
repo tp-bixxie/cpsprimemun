@@ -14,7 +14,7 @@ const Eb = () => {
 
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 text-center mt-4'>
-            Joshua Sudeep (Chair) 
+            Joshua M Sudeep (Chair) 
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             Joshua M. Sudeep, a dynamic and accomplished individual, embodies charisma, and a relentless drive for success. Joshua's impressive journey of accomplishment began as the Head Boy of Chennai Public School TMZ, where he showcased exceptional leadership skills and played a vital role in organizing notable events, including Wisteria 2019. Graduating as the valedictorian for the class of 2021, Joshua's academic excellence has been matched by his prowess in debates and Model United Nations conferences across the state, consistently emerging victorious. <br></br><br></br>
@@ -40,7 +40,7 @@ const Eb = () => {
        
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 text-center mt-4'>
-            Lauhith (Co-Chair)
+            Lauhith S Kumar (Co-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             Attempting to craft a bio befitting his inflated ego. Lauhith fancies himself a master of many things, including Model United Nations, Debating, athletics, and boxing. But perhaps what he's truly a master of is his insufferable arrogance and biting sarcasm, which he wields with recklessness in committee's. <br></br><br></br>

@@ -11,7 +11,7 @@ const Committee = () => {
      
         <div className={`flex flex-col p-6 rounded-[20px] mb-6 feature-card1 w-auto h-auto md:w-auto md:h-auto items-center` }>
         
-            <img src={unfccc} alt="icon" className='w-[40%] h-[40%] object-contain rounded-full ' /> 
+            <img src={unfccc} alt="icon" className='w-[60%] h-[60%] object-contain rounded-full ' /> 
         
         <div className='flex-1 flex flex-col ml-3'> 
             <h2 className='font-formal font-semibold text-white text-[30px] leading -[23.4px] mb-1 text-center'>

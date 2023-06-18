@@ -3,8 +3,8 @@ import styles, { layout } from "../../src/style";
 
 const Rop = () => {
   const downloadLinks = [
-    { committeeName: 'Rules of Procedure', guideLink: 'https://example.com/guide1.pdf' },
-    { committeeName: 'Position Paper', guideLink: 'https://example.com/guide1.pdf' },
+    { committeeName: 'Rules of Procedure', guideLink: 'https://static1.squarespace.com/static/5457f2ece4b0a485997c0d67/t/5a318b52e4966b0b6edbbdcb/1513196371261/UNA-USA+Procedure.pdf' },
+    { committeeName: 'Position Paper', guideLink: 'https://drive.google.com/u/0/uc?id=1lMb5q0VyHRi3XDQpUR5tzECcuuuM5uJN&export=download' },
    
   ];
 

@@ -11,14 +11,14 @@ const Committee = () => {
      
         <div className={`flex flex-col p-6 rounded-[20px] mb-6 feature-card1 w-auto h-auto md:w-auto md:h-auto items-center` }>
         
-            <img src={unhrc} alt="icon" className='w-[40%] h-[40%] object-contain ' /> 
+            <img src={unhrc} alt="icon" className='w-[60%] h-[60%] object-contain ' /> 
         
         <div className='flex-1 flex flex-col ml-3'> 
             <h2 className='font-formal font-semibold text-white text-[30px] leading -[23.4px] mb-1 text-center'>
             United Nations Human Rights Council 
             </h2>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px]">
-                 <span className='font-bold'>Agenda:</span> The Violations of Human Rights and the act of Authoritarianism: the Implications on Civil Society and Legal justice.
+                 <span className='font-bold'>Agenda:</span> Analysing the scope and impact of forced labour in conflict zones, with special emphasis on its demographic variations
 
             </p>
         </div>    

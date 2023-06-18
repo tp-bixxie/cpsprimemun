@@ -14,7 +14,7 @@ const Eb = () => {
       
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 mt-4 text-center'>
-            Azhar (Chair) 
+            Mohamed Azhar (Chair) 
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             Azhar, a budding journalist with a keen interest in Indian politics, is known for his penetrating arguments and impressive lobbying abilities. With a Bachelor's degree in Journalism and nearly three years of professional experience, he has established himself as a respected figure in the field. Azhar's dedication to his craft and his ability to provide insightful analysis have earned him recognition among his peers and readers. His exceptional observational skills and meticulous reporting have made him a trusted source of information in the realm of Journalism. <br></br><br></br>
@@ -37,7 +37,7 @@ const Eb = () => {
        
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 mt-4 text-center'>
-            Kaushal Rishab (Co-Chair)
+            Kaushal Rishab Kumar (Co-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             Kaushal, an accomplished high school graduate from The PSBB Millennium School, embarked on his MUN journey in the 9th grade, accumulating a remarkable record of over 12 MUNs as a delegate and 3 MUNs as an executive board member. His adeptness in diplomatic speaking and fervent delegation is complemented by the intellectual humility he brings to every conference. 
