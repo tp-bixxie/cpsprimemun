@@ -23,7 +23,7 @@ export const navLinks = [
     title: "CONFERENCE",
   },
   {
-    id: "#",
+    id: "https://erpchennaipublicschool.com/cpsonline/application/transaction/CPSPrimeMUNRegistration.jsp",
     title: "REGISTRATION",
   }
 ];

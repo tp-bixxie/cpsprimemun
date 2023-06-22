@@ -34,7 +34,7 @@ const Eb = () => {
             <img src={unhrc2} alt="icon" className='w-[40%] h-[40%] object-contain rounded-full' /> 
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 text-center mt-4'>
-            Vaishnavi Balasubramaniam (Co-Chair)
+            Vaishnavi Balasubramaniam (Vice-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"> <br></br>
 Vaishnavi Balasubramaniam is a spirited sixteen year old who has carved not only her own path into the MUN circuit in Chennai, but has also initiated her school into the possibilities that MUNs represent. Having been part of Model United Nations in all its facets - as a delegate, a member of the Executive Board, an organising committee member and Director-General, Vaishnavi believes herself to be well equipped to be the co-chairperson of UNHRC and is very
