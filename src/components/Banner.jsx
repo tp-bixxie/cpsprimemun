@@ -23,9 +23,10 @@ const Banner = () => {
                 <br className='sm:block hidden' />{" "}
                 MUN teaches participants research, speaking, debating and writing skills, in addition to critical thinking, teamwork and leadership abilities. Join PRIME MUN now!
             </p>
-            <button className={`${styles.button} mt-6`}>
+            <a href="https://erpchennaipublicschool.com/cpsonline/application/transaction/CPSPrimeMUNRegistration.jsp"><button className={`${styles.button} mt-6`}>
             Register Now
           </button>
+        </a>
             
         </div>
         <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

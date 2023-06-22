@@ -1,7 +1,8 @@
 import React from 'react';
 import styles from '../src/style';
-import { Banner , Committee, Eb, EbTxt } from './components';
+import { Banner , Committee, Eb, EbTxt, Bg } from './components';
 import { Navbar, Footer, Countdown} from '../src/components'; 
+
 
 
 
@@ -25,11 +26,12 @@ const App = () => {
         </div>
       </div>
    
-      <div className={`${styles.flexStart}`}>
+      <div className={`${styles.flexStart} bg-white`}>
         <div className={`${styles.boxWidth}`}>
         <Committee />
         <EbTxt />
         <Eb />
+       
         </div>
       </div>
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>

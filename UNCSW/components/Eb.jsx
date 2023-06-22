@@ -44,7 +44,7 @@ const Eb = () => {
             Varnika Rajesh (Vice-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
-            With unwavering dedication and a wealth of experience in the field of debates and Muns - we proudly present Varnika as a distinguished co-chair for UNCSW. Varnika's passion for international affairs and diplomacy has propelled her passion in the field of MUNs. As an astute observer, she brings a keen eye for detail, fairness, and critical analysis to the debates and the committee. <br></br><br></br>
+            With unwavering dedication and a wealth of experience in the field of debates and Muns - we proudly present Varnika as a distinguished vice-chair for UNCSW. Varnika's passion for international affairs and diplomacy has propelled her passion in the field of MUNs. As an astute observer, she brings a keen eye for detail, fairness, and critical analysis to the debates and the committee. <br></br><br></br>
             
             Her extensive knowledge of global issues, coupled with her exceptional communication skills, enables her to assess and evaluate the delegates' performances with precision.  Her humble nature and her impartiality towards delegates ensure a supportive environment that would inspire delegates to excel and foster a deep understanding of international relations because she firmly believes learning and putting in your best efforts is all that matters at the end of the day.
 

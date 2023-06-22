@@ -40,7 +40,7 @@ const Eb = () => {
    
         <div className='flex-1 flex flex-col ml-3'> 
             <h4 className='font-formal font-semibold text-white text-[20px] leading -[23.4px] mb-1 mt-4 text-center'>
-            Yohan Ealias Tharakan (Co-Chair)
+            Yohan Ealias Tharakan (Vice-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
             Yohan Tharakan is an aspiring lawyer but still hasn't watched Suits. Being really into music production and literature, he plays the guitar (unsucessfully) and has a weird obsession with donuts and Kira Yoshikage. Feel free to bring him one for brownie points. 

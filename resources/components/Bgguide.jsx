@@ -3,15 +3,15 @@ import styles, { layout } from "../../src/style";
 
 const Bgguide = () => {
   const downloadLinks = [
-    { committeeName: 'UNGA (SPECPOL)', guideLink: 'https://example.com/guide1.pdf' },
-    { committeeName: 'UNHRC', guideLink: 'https://example.com/guide2.pdf' },
+    { committeeName: 'UNGA (SPECPOL)', guideLink: 'https://drive.google.com/file/d/1vPnCROhFwWSYhT9XQYs26Sle3dNnFrU-' },
+    { committeeName: 'UNHRC', guideLink: 'https://drive.google.com/file/d/1AORypxJK220F84gsZRozHOuQeaPKjCPB' },
     { committeeName: 'UNCSW', guideLink: 'https://example.com/guide3.pdf' },
     { committeeName: 'UNSC', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'G20', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'IP', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'ECOSOC', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'UNFCCC', guideLink: 'https://example.com/guide3.pdf' },
-    { committeeName: 'WHO', guideLink: 'https://example.com/guide3.pdf' },
+    { committeeName: 'G20', guideLink: 'https://drive.google.com/file/d/1ei8Nbp69Zx3iQMyq-uTybRTCfodJCxB5' },
+    { committeeName: 'IP', guideLink: 'https://drive.google.com/file/d/1MDKA7Rw7982F1TiPmJWBl0yK4o9RGzgg' },
+    { committeeName: 'ECOSOC', guideLink: 'https://drive.google.com/file/d/10W5ZsVlOEy5yEd2vmZjWrgaq3-94pW8F' },
+    { committeeName: 'UNFCCC', guideLink: 'https://drive.google.com/file/d/1iRD8lbjpA0KusonNt2_-AnK3RVfehr9B' },
+    { committeeName: 'WHO', guideLink: 'https://drive.google.com/file/d/1sVjxCGbG6CYvKe9OMas3SSLItSwrVFMc' },
   ];
 
   const handleDownload = (link) => {
