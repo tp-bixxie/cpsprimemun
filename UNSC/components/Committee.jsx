@@ -18,7 +18,7 @@ const Committee = () => {
             The United Nations Security Council 
             </h2>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px]">
-                 <span className='font-bold'>Agenda:</span> The Ukrainian Crisis and Status of the Armed Conflict and the Disputed Territories
+                 <span className='font-bold'>Agenda:</span> The Threat of Non State Terrorist Groups with special emphasis on the Islamic State
 
             </p>
         </div>    
