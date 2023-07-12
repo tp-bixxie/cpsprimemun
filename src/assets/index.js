@@ -44,6 +44,7 @@ import uncsw1 from "./uncsw1.png"
 import uncsw2 from "./uncsw2.png"
 import uncsw3 from "./uncsw3.png"
 import uncsw4 from "./uncsw4.png"
+import uncsw5 from "./uncsw5.png"
 import unfccc1 from "./unfccc1.png"
 import unfccc2 from "./unfccc2.png"
 import unga1 from "./unga1.png"
@@ -108,6 +109,7 @@ export {
   uncsw2,
   uncsw3,
   uncsw4,
+  uncsw5,
   unfccc1,
   unfccc2,
   unga1,

@@ -17,13 +17,7 @@ const Eb = () => {
                Tharun Pranav Sakthivel (Chair) 
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
-            Tharun Pranav Sakthivel, is a truly captivating individual known for his remarkable ability to wear multiple hats. With an impressive tally of 56 MUNs attended, he effortlessly embodies the true essence of diplomatic prowess, leaving a trail of admiration in his wake. Not only does he clinch numerous awards in these Model United Nations conferences, but he also gracefully assumes the role of a chair, expertly guiding others on the path to success. Leading the Ignite Debate Society, he orchestrates captivating MUN events with a masterful touch, igniting minds and fostering lively discourse that lingers in the hearts of participants. 
-            <br></br><br></br>
-            As an undergraduate student at the prestigious University of British Columbia, Canada, Tharun Pranav Sakthivel effortlessly balances his academic pursuits while passionately engaging in exhilarating debates and programming endeavors. Oh, and have I mentioned his secret athletic prowess? This young scholar gracefully glides through intellectual and physical challenges, proving his agility and determination as a district-level athlete. 
-            <br></br><br></br>
-            His prowess knows no bounds, as he reaches remarkable heights in the research domain, earning an honorable mention from IEEE for his groundbreaking journal publication that spanned 14 countries.
-            <br></br><br></br> 
-            TP's sharp mind and charming wit are the secrets behind his unrivaled success, conquering every endeavor with an undeniable charisma that captivates all those who cross his path.
+            Tharun Pranav Sakthivel is a captivating individual, excelling in various domains. With 56 MUNs attended, he embodies diplomatic prowess, winning numerous awards and guiding others as a chair. Leading the Ignite Debate Society, he orchestrates captivating MUN events, fostering lively discourse. As a University of British Columbia undergraduate, he balances academics and engaging in debates and programming. Alongside his secret athletic prowess, he conquers intellectual and physical challenges as a district-level athlete. His research accomplishments span 14 countries, earning an IEEE honorable mention. TP's sharp mind, charming wit, and undeniable charisma pave the way for his unrivaled success.
             </p>
         </div>    
         
@@ -44,9 +38,7 @@ const Eb = () => {
             Varnika Rajesh (Vice-Chair)
             </h4>
             <p className="font-formal font-normal text-white text-[18px] leading-[24px] text-justify"><br></br>
-            With unwavering dedication and a wealth of experience in the field of debates and Muns - we proudly present Varnika as a distinguished vice-chair for UNCSW. Varnika's passion for international affairs and diplomacy has propelled her passion in the field of MUNs. As an astute observer, she brings a keen eye for detail, fairness, and critical analysis to the debates and the committee. <br></br><br></br>
-            
-            Her extensive knowledge of global issues, coupled with her exceptional communication skills, enables her to assess and evaluate the delegates' performances with precision.  Her humble nature and her impartiality towards delegates ensure a supportive environment that would inspire delegates to excel and foster a deep understanding of international relations because she firmly believes learning and putting in your best efforts is all that matters at the end of the day.
+            With dedication and experience in debates and MUNs, we present Varnika as a distinguished vice-chair for UNCSW. Her passion for international affairs fuels her MUN involvement. As an astute observer, she brings fairness, critical analysis, and attention to detail to the committee. With vast knowledge and exceptional communication skills, she assesses delegates' performances accurately. Her humility and impartiality create a supportive environment, inspiring delegates to excel and deepen their understanding of international relations. She firmly believes in learning and giving one's best efforts.
 
             </p>
         </div>    
