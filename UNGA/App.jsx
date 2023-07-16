@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '../src/style';
-import { Banner , Committee, Eb, EbTxt } from './components';
+import { Banner , Committee, Eb, Eb2, EbTxt } from './components';
 import { Navbar, Footer, Countdown} from '../src/components'; 
 
 
@@ -30,6 +30,7 @@ const App = () => {
         <Committee />
         <EbTxt />
         <Eb />
+        <Eb2 />
         </div>
       </div>
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
