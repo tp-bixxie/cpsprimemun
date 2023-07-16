@@ -45,6 +45,7 @@ import uncsw2 from "./uncsw2.png"
 import uncsw3 from "./uncsw3.png"
 import uncsw4 from "./uncsw4.png"
 import uncsw5 from "./uncsw5.png"
+import uncsw7 from "./uncsw7.png"
 import unfccc1 from "./unfccc1.png"
 import unfccc2 from "./unfccc2.png"
 import unga1 from "./unga1.png"
@@ -53,6 +54,7 @@ import unhrc1 from "./unhrc1.png"
 import unhrc2 from "./unhrc2.png"
 import unsc1 from "./unsc1.png"
 import unsc2 from "./unsc2.png"
+import unsc4 from "./unsc4.png"
 import who1 from "./who1.png"
 import who2 from "./who2.png"
 import br from "./br.png"
@@ -110,6 +112,7 @@ export {
   uncsw3,
   uncsw4,
   uncsw5,
+  uncsw7,
   unfccc1,
   unfccc2,
   unga1,
@@ -118,6 +121,7 @@ export {
   unhrc2,
   unsc1,
   unsc2,
+  unsc4,
   who1,
   who2,
   br,
